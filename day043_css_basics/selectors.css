@@ -1,0 +1,19 @@
+*{
+    font-weight: bolder;
+}
+
+h2{
+    color: blue;
+}
+
+.red-text{
+    color: red;
+}
+
+#green-title{
+    color: green;
+}
+
+p[draggable="true"]{
+    font-size: 66px;
+}
