@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("task1_bootstrap_card.html")
 
 
 @app.route("/invite")
